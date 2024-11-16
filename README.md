@@ -17,7 +17,7 @@ This project predicts audit risks based on provided datasets (audit_data.csv and
 **Clone the repository**:
 
 ```bash Copy code
-git clone <repository_url>
+git clone https://github.com/marwahsparsh24/Audit_Data_Risk_Prediction.git
 ```
 
 **Install the necessary packages**:
